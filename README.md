@@ -9,3 +9,6 @@ This is a simple project that displays a to-do list, showing each task along wit
 2. Run the main program file main.py using the following command
 
    python main.py
+
+   # Auther
+   Mohammad Shoaib
